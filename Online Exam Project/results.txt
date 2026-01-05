@@ -1,0 +1,27 @@
+Name: Chris | Score: 2/2 | 100.0% | Status: PASS
+
+==================================================
+         ONLINE EXAMINATION REPORT CARD         
+==================================================
+ DATE/TIME    : 05-01-2026 16:33:52
+ STUDENT NAME : CHRIS
+--------------------------------------------------
+ TOTAL QUESTIONS    : 4
+ CORRECT ANSWERS    : 3
+ SCORE PERCENTAGE   : 75.00%
+ FINAL STATUS       : PASS
+==================================================
+
+
+==================================================
+         ONLINE EXAMINATION REPORT CARD         
+==================================================
+ DATE/TIME    : 05-01-2026 16:37:42
+ STUDENT NAME : CHRIS
+--------------------------------------------------
+ TOTAL QUESTIONS    : 4
+ CORRECT ANSWERS    : 2
+ SCORE PERCENTAGE   : 50.00%
+ FINAL STATUS       : PASS
+==================================================
+
